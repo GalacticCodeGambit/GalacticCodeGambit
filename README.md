@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning **erverything I find interesting** 
 - ⚡ Fun fact: **The Universe's average colour is called 'Cosmic latte'**
 <!---@GalacticCodeGambit
+> Defenders of the digital Realm
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
