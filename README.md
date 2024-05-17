@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Frederik 
+# <p align="center">👋 Hi, I’m Frederik </p>
 - 👀 I’m interested in **Computer Science**
 - 🌱 I’m currently learning **erverything I find interesting** 
 - ⚡ Fun fact: **The Universe's average colour is called 'Cosmic latte'**
